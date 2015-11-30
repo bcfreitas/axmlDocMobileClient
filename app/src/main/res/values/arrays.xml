@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="strategy">
+        <item>LAZY</item>
+        <item>LAZY_PERSIST</item>
+        <item>LAZY_PERSIST_WITH_EXCLUSION</item>
+        <item>EAGER</item>
+        <item>EAGER_PERSIST</item>
+    </string-array>
+</resources>

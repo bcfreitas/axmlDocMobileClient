@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><livro autor="Joao de Deus" titulo="Introducao XML">
+	<capitulo numero="1" titulo="Estrutura de um arquivo XML"><axml:call service="http://libraryservice-bcfreitas.rhcloud.com/axis2/services/AxmlDocLibrary/conteudoOnline?livro=1&amp;capitulo=1"/></capitulo>
+	<capitulo numero="2" titulo="Usos práticos para XML"><axml:call service="http://libraryservice-bcfreitas.rhcloud.com/axis2/services/AxmlDocLibrary/conteudoOnline?livro=1&amp;capitulo=2"/></capitulo>
+	<capitulo numero="3" titulo="XML e Webservices"><axml:call service="http://libraryservice-bcfreitas.rhcloud.com/axis2/services/AxmlDocLibrary/conteudoOnline?livro=1&amp;capitulo=3"/></capitulo>
+</livro>
